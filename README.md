@@ -10,6 +10,8 @@ A full-stack blog application built using MERN (MongoDB, Express.js, React.js, N
 
 ---
 
+👆Projectc demo : https://drive.google.com/file/d/16a8CHxHyYxdkusr7Muo3ODLoiU9bsZMi/view?usp=sharing
+
 ## Features
 - Authentication**: Register, login, and secure access with JWT.
 - Blog Management**: Create, read, update, and delete blogs.
